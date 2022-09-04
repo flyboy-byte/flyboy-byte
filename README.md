@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @flyboy-byte
-- 👀 I’m interested in all things tech
-- 🌱 I’m currently struggling to learn java and some c++
-- 💞️ I’m looking to collaborate on anything i can help on
-- 📫 How to reach me night5555555507logan555@gmail.com
+👋 Hi, I’m @flyboy-byte
+👀 I’m interested in old retro computers, programming, and security...
+🌱 I’m currently struggling to learn java and some c++
+💞️ I’m looking to collaborate on anything i can help on
+📫 How to reach me night5555555507logan555@gmail.com
          removing 5's...
 
 <!---
