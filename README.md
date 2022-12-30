@@ -6,6 +6,6 @@ as hacking and networking...<br>
 Arduino C++ and hope to master the wonderful 
 language python soon.<br>
 🌐 Lately I started working on a website 
-of my own, [lneletro.us](lneletro.us), using html and, 
+of my own, [lneletro.us](http://www.lneletro.us), using html and, 
 hopefully soon, css.<br>
 📫 How to reach me logan07night@gmail.com
