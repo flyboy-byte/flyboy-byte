@@ -1,11 +1,7 @@
-#### 👋 Hi, I’m @flyboy-byte<br>
-👀 I’m interested in old retro computers, 
-programming in general, and security, such 
-as hacking and networking...<br>
-🌱 Right now I'm trying to learn Java and 
-Arduino C++ and hope to master the wonderful 
-language python soon.<br>
-🌐 Lately I started working on a website 
-of my own, [lneletro.us](http://www.lneletro.us), using html and, 
-hopefully soon, css.<br>
-📫 How to reach me logan07night@gmail.com
+I am a technology enthusiast with a passion for creating and solving problems. My interests and skills include 3D printing, hobby electronics, and software development, where I enjoy designing and building physical objects using 3D printing technology and experimenting with circuit design and microcontroller programming to create interactive projects. As for software development, I am expanding my knowledge with primary focus on Bash, Python, and HTML, and using Linux as my primary development environment. In addition, I have interests in Ham radio, cyber-security, and retro computing, such as the Apple II, which I actively pursue and learn about in my free time
+
+writen by chatgpt
+
+
+my website<br>
+[lneletro.us](http://www.lneletro.us)
