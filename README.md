@@ -4,6 +4,3 @@ writen by chatgpt<br>
 
 ham operator<br>
 KI5ZYW
-
-my website<br>
-[lneletro.us](http://www.lneletro.us)
